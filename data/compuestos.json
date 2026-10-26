@@ -1,0 +1,4322 @@
+[
+  {
+    "id": "alquenos-01",
+    "name": "Eteno",
+    "formula": "C₂H₄",
+    "group": "Alquenos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=C",
+        "range": "1620–1680 cm⁻¹"
+      },
+      {
+        "assignment": "=C–H",
+        "range": "3020–3100 cm⁻¹"
+      },
+      {
+        "assignment": "flexión fuera del plano",
+        "range": "650–1000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquenos-02",
+    "name": "Propeno",
+    "formula": "C₃H₆",
+    "group": "Alquenos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=C",
+        "range": "1620–1680 cm⁻¹"
+      },
+      {
+        "assignment": "=C–H",
+        "range": "3020–3100 cm⁻¹"
+      },
+      {
+        "assignment": "flexión fuera del plano",
+        "range": "650–1000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquenos-03",
+    "name": "1-Buteno",
+    "formula": "C₄H₈",
+    "group": "Alquenos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=C",
+        "range": "1620–1680 cm⁻¹"
+      },
+      {
+        "assignment": "=C–H",
+        "range": "3020–3100 cm⁻¹"
+      },
+      {
+        "assignment": "flexión fuera del plano",
+        "range": "650–1000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquenos-04",
+    "name": "cis-2-Buteno",
+    "formula": "C₄H₈",
+    "group": "Alquenos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=C",
+        "range": "1620–1680 cm⁻¹"
+      },
+      {
+        "assignment": "=C–H",
+        "range": "3020–3100 cm⁻¹"
+      },
+      {
+        "assignment": "flexión fuera del plano",
+        "range": "650–1000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquenos-05",
+    "name": "trans-2-Buteno",
+    "formula": "C₄H₈",
+    "group": "Alquenos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=C",
+        "range": "1620–1680 cm⁻¹"
+      },
+      {
+        "assignment": "=C–H",
+        "range": "3020–3100 cm⁻¹"
+      },
+      {
+        "assignment": "flexión fuera del plano",
+        "range": "650–1000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquenos-06",
+    "name": "1-Penteno",
+    "formula": "C₅H₁₀",
+    "group": "Alquenos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=C",
+        "range": "1620–1680 cm⁻¹"
+      },
+      {
+        "assignment": "=C–H",
+        "range": "3020–3100 cm⁻¹"
+      },
+      {
+        "assignment": "flexión fuera del plano",
+        "range": "650–1000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquenos-07",
+    "name": "1-Hexeno",
+    "formula": "C₆H₁₂",
+    "group": "Alquenos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=C",
+        "range": "1620–1680 cm⁻¹"
+      },
+      {
+        "assignment": "=C–H",
+        "range": "3020–3100 cm⁻¹"
+      },
+      {
+        "assignment": "flexión fuera del plano",
+        "range": "650–1000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquenos-08",
+    "name": "1-Hepteno",
+    "formula": "C₇H₁₄",
+    "group": "Alquenos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=C",
+        "range": "1620–1680 cm⁻¹"
+      },
+      {
+        "assignment": "=C–H",
+        "range": "3020–3100 cm⁻¹"
+      },
+      {
+        "assignment": "flexión fuera del plano",
+        "range": "650–1000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquenos-09",
+    "name": "1-Octeno",
+    "formula": "C₈H₁₆",
+    "group": "Alquenos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=C",
+        "range": "1620–1680 cm⁻¹"
+      },
+      {
+        "assignment": "=C–H",
+        "range": "3020–3100 cm⁻¹"
+      },
+      {
+        "assignment": "flexión fuera del plano",
+        "range": "650–1000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquenos-10",
+    "name": "1-Noneno",
+    "formula": "C₉H₁₈",
+    "group": "Alquenos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=C",
+        "range": "1620–1680 cm⁻¹"
+      },
+      {
+        "assignment": "=C–H",
+        "range": "3020–3100 cm⁻¹"
+      },
+      {
+        "assignment": "flexión fuera del plano",
+        "range": "650–1000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquenos-11",
+    "name": "1-Deceno",
+    "formula": "C₁₀H₂₀",
+    "group": "Alquenos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=C",
+        "range": "1620–1680 cm⁻¹"
+      },
+      {
+        "assignment": "=C–H",
+        "range": "3020–3100 cm⁻¹"
+      },
+      {
+        "assignment": "flexión fuera del plano",
+        "range": "650–1000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquenos-12",
+    "name": "2-Metilpropeno",
+    "formula": "C₄H₈",
+    "group": "Alquenos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=C",
+        "range": "1620–1680 cm⁻¹"
+      },
+      {
+        "assignment": "=C–H",
+        "range": "3020–3100 cm⁻¹"
+      },
+      {
+        "assignment": "flexión fuera del plano",
+        "range": "650–1000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquenos-13",
+    "name": "3-Metil-1-buteno",
+    "formula": "C₅H₁₀",
+    "group": "Alquenos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=C",
+        "range": "1620–1680 cm⁻¹"
+      },
+      {
+        "assignment": "=C–H",
+        "range": "3020–3100 cm⁻¹"
+      },
+      {
+        "assignment": "flexión fuera del plano",
+        "range": "650–1000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquenos-14",
+    "name": "2-Metil-1-buteno",
+    "formula": "C₅H₁₀",
+    "group": "Alquenos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=C",
+        "range": "1620–1680 cm⁻¹"
+      },
+      {
+        "assignment": "=C–H",
+        "range": "3020–3100 cm⁻¹"
+      },
+      {
+        "assignment": "flexión fuera del plano",
+        "range": "650–1000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquenos-15",
+    "name": "2-Metil-2-buteno",
+    "formula": "C₅H₁₀",
+    "group": "Alquenos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=C",
+        "range": "1620–1680 cm⁻¹"
+      },
+      {
+        "assignment": "=C–H",
+        "range": "3020–3100 cm⁻¹"
+      },
+      {
+        "assignment": "flexión fuera del plano",
+        "range": "650–1000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquenos-16",
+    "name": "Ciclohexeno",
+    "formula": "C₆H₁₀",
+    "group": "Alquenos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=C",
+        "range": "1620–1680 cm⁻¹"
+      },
+      {
+        "assignment": "=C–H",
+        "range": "3020–3100 cm⁻¹"
+      },
+      {
+        "assignment": "flexión fuera del plano",
+        "range": "650–1000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquenos-17",
+    "name": "Ciclopenteno",
+    "formula": "C₅H₈",
+    "group": "Alquenos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=C",
+        "range": "1620–1680 cm⁻¹"
+      },
+      {
+        "assignment": "=C–H",
+        "range": "3020–3100 cm⁻¹"
+      },
+      {
+        "assignment": "flexión fuera del plano",
+        "range": "650–1000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquenos-18",
+    "name": "Estireno",
+    "formula": "C₈H₈",
+    "group": "Alquenos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=C",
+        "range": "1620–1680 cm⁻¹"
+      },
+      {
+        "assignment": "=C–H",
+        "range": "3020–3100 cm⁻¹"
+      },
+      {
+        "assignment": "flexión fuera del plano",
+        "range": "650–1000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquenos-19",
+    "name": "Alilbenceno",
+    "formula": "C₉H₁₀",
+    "group": "Alquenos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=C",
+        "range": "1620–1680 cm⁻¹"
+      },
+      {
+        "assignment": "=C–H",
+        "range": "3020–3100 cm⁻¹"
+      },
+      {
+        "assignment": "flexión fuera del plano",
+        "range": "650–1000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquenos-20",
+    "name": "Limoneno",
+    "formula": "C₁₀H₁₆",
+    "group": "Alquenos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=C",
+        "range": "1620–1680 cm⁻¹"
+      },
+      {
+        "assignment": "=C–H",
+        "range": "3020–3100 cm⁻¹"
+      },
+      {
+        "assignment": "flexión fuera del plano",
+        "range": "650–1000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquinos-01",
+    "name": "Etino (acetileno)",
+    "formula": "C₂H₂",
+    "group": "Alquinos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C≡C",
+        "range": "2100–2260 cm⁻¹"
+      },
+      {
+        "assignment": "≡C–H terminal",
+        "range": "≈ 3300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquinos-02",
+    "name": "Propino",
+    "formula": "C₃H₄",
+    "group": "Alquinos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C≡C",
+        "range": "2100–2260 cm⁻¹"
+      },
+      {
+        "assignment": "≡C–H terminal",
+        "range": "≈ 3300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquinos-03",
+    "name": "1-Butino",
+    "formula": "C₄H₆",
+    "group": "Alquinos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C≡C",
+        "range": "2100–2260 cm⁻¹"
+      },
+      {
+        "assignment": "≡C–H terminal",
+        "range": "≈ 3300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquinos-04",
+    "name": "2-Butino",
+    "formula": "C₄H₆",
+    "group": "Alquinos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C≡C",
+        "range": "2100–2260 cm⁻¹"
+      },
+      {
+        "assignment": "≡C–H terminal",
+        "range": "≈ 3300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquinos-05",
+    "name": "1-Pentino",
+    "formula": "C₅H₈",
+    "group": "Alquinos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C≡C",
+        "range": "2100–2260 cm⁻¹"
+      },
+      {
+        "assignment": "≡C–H terminal",
+        "range": "≈ 3300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquinos-06",
+    "name": "2-Pentino",
+    "formula": "C₅H₈",
+    "group": "Alquinos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C≡C",
+        "range": "2100–2260 cm⁻¹"
+      },
+      {
+        "assignment": "≡C–H terminal",
+        "range": "≈ 3300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquinos-07",
+    "name": "1-Hexino",
+    "formula": "C₆H₁₀",
+    "group": "Alquinos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C≡C",
+        "range": "2100–2260 cm⁻¹"
+      },
+      {
+        "assignment": "≡C–H terminal",
+        "range": "≈ 3300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquinos-08",
+    "name": "2-Hexino",
+    "formula": "C₆H₁₀",
+    "group": "Alquinos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C≡C",
+        "range": "2100–2260 cm⁻¹"
+      },
+      {
+        "assignment": "≡C–H terminal",
+        "range": "≈ 3300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquinos-09",
+    "name": "3-Hexino",
+    "formula": "C₆H₁₀",
+    "group": "Alquinos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C≡C",
+        "range": "2100–2260 cm⁻¹"
+      },
+      {
+        "assignment": "≡C–H terminal",
+        "range": "≈ 3300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquinos-10",
+    "name": "1-Heptino",
+    "formula": "C₇H₁₂",
+    "group": "Alquinos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C≡C",
+        "range": "2100–2260 cm⁻¹"
+      },
+      {
+        "assignment": "≡C–H terminal",
+        "range": "≈ 3300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquinos-11",
+    "name": "1-Octino",
+    "formula": "C₈H₁₄",
+    "group": "Alquinos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C≡C",
+        "range": "2100–2260 cm⁻¹"
+      },
+      {
+        "assignment": "≡C–H terminal",
+        "range": "≈ 3300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquinos-12",
+    "name": "1-Nonino",
+    "formula": "C₉H₁₆",
+    "group": "Alquinos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C≡C",
+        "range": "2100–2260 cm⁻¹"
+      },
+      {
+        "assignment": "≡C–H terminal",
+        "range": "≈ 3300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquinos-13",
+    "name": "1-Decino",
+    "formula": "C₁₀H₁₈",
+    "group": "Alquinos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C≡C",
+        "range": "2100–2260 cm⁻¹"
+      },
+      {
+        "assignment": "≡C–H terminal",
+        "range": "≈ 3300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquinos-14",
+    "name": "3-Metil-1-butino",
+    "formula": "C₅H₈",
+    "group": "Alquinos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C≡C",
+        "range": "2100–2260 cm⁻¹"
+      },
+      {
+        "assignment": "≡C–H terminal",
+        "range": "≈ 3300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquinos-15",
+    "name": "3,3-Dimetil-1-butino",
+    "formula": "C₆H₁₀",
+    "group": "Alquinos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C≡C",
+        "range": "2100–2260 cm⁻¹"
+      },
+      {
+        "assignment": "≡C–H terminal",
+        "range": "≈ 3300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquinos-16",
+    "name": "Fenilacetileno",
+    "formula": "C₈H₆",
+    "group": "Alquinos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C≡C",
+        "range": "2100–2260 cm⁻¹"
+      },
+      {
+        "assignment": "≡C–H terminal",
+        "range": "≈ 3300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquinos-17",
+    "name": "Ciclohexilacetileno",
+    "formula": "C₈H₁₂",
+    "group": "Alquinos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C≡C",
+        "range": "2100–2260 cm⁻¹"
+      },
+      {
+        "assignment": "≡C–H terminal",
+        "range": "≈ 3300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquinos-18",
+    "name": "4-Metil-2-pentino",
+    "formula": "C₆H₁₀",
+    "group": "Alquinos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C≡C",
+        "range": "2100–2260 cm⁻¹"
+      },
+      {
+        "assignment": "≡C–H terminal",
+        "range": "≈ 3300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquinos-19",
+    "name": "5-Decino",
+    "formula": "C₁₀H₁₈",
+    "group": "Alquinos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C≡C",
+        "range": "2100–2260 cm⁻¹"
+      },
+      {
+        "assignment": "≡C–H terminal",
+        "range": "≈ 3300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alquinos-20",
+    "name": "1-Buten-3-ino",
+    "formula": "C₄H₄",
+    "group": "Alquinos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C≡C",
+        "range": "2100–2260 cm⁻¹"
+      },
+      {
+        "assignment": "≡C–H terminal",
+        "range": "≈ 3300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alcoholes-01",
+    "name": "Metanol",
+    "formula": "CH₄O",
+    "group": "Alcoholes",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "3200–3600 cm⁻¹; ancha"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1000–1260 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alcoholes-02",
+    "name": "Etanol",
+    "formula": "C₂H₆O",
+    "group": "Alcoholes",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "3200–3600 cm⁻¹; ancha"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1000–1260 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alcoholes-03",
+    "name": "1-Propanol",
+    "formula": "C₃H₈O",
+    "group": "Alcoholes",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "3200–3600 cm⁻¹; ancha"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1000–1260 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alcoholes-04",
+    "name": "2-Propanol",
+    "formula": "C₃H₈O",
+    "group": "Alcoholes",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "3200–3600 cm⁻¹; ancha"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1000–1260 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alcoholes-05",
+    "name": "1-Butanol",
+    "formula": "C₄H₁₀O",
+    "group": "Alcoholes",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "3200–3600 cm⁻¹; ancha"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1000–1260 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alcoholes-06",
+    "name": "2-Butanol",
+    "formula": "C₄H₁₀O",
+    "group": "Alcoholes",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "3200–3600 cm⁻¹; ancha"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1000–1260 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alcoholes-07",
+    "name": "2-Metil-1-propanol",
+    "formula": "C₄H₁₀O",
+    "group": "Alcoholes",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "3200–3600 cm⁻¹; ancha"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1000–1260 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alcoholes-08",
+    "name": "2-Metil-2-propanol",
+    "formula": "C₄H₁₀O",
+    "group": "Alcoholes",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "3200–3600 cm⁻¹; ancha"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1000–1260 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alcoholes-09",
+    "name": "1-Pentanol",
+    "formula": "C₅H₁₂O",
+    "group": "Alcoholes",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "3200–3600 cm⁻¹; ancha"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1000–1260 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alcoholes-10",
+    "name": "1-Hexanol",
+    "formula": "C₆H₁₄O",
+    "group": "Alcoholes",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "3200–3600 cm⁻¹; ancha"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1000–1260 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alcoholes-11",
+    "name": "1-Heptanol",
+    "formula": "C₇H₁₆O",
+    "group": "Alcoholes",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "3200–3600 cm⁻¹; ancha"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1000–1260 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alcoholes-12",
+    "name": "1-Octanol",
+    "formula": "C₈H₁₈O",
+    "group": "Alcoholes",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "3200–3600 cm⁻¹; ancha"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1000–1260 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alcoholes-13",
+    "name": "Ciclohexanol",
+    "formula": "C₆H₁₂O",
+    "group": "Alcoholes",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "3200–3600 cm⁻¹; ancha"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1000–1260 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alcoholes-14",
+    "name": "Alcohol bencílico",
+    "formula": "C₇H₈O",
+    "group": "Alcoholes",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "3200–3600 cm⁻¹; ancha"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1000–1260 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alcoholes-15",
+    "name": "Fenol",
+    "formula": "C₆H₆O",
+    "group": "Alcoholes",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "3200–3600 cm⁻¹; ancha"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1000–1260 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alcoholes-16",
+    "name": "Etilenglicol",
+    "formula": "C₂H₆O₂",
+    "group": "Alcoholes",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "3200–3600 cm⁻¹; ancha"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1000–1260 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alcoholes-17",
+    "name": "Glicerol",
+    "formula": "C₃H₈O₃",
+    "group": "Alcoholes",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "3200–3600 cm⁻¹; ancha"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1000–1260 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alcoholes-18",
+    "name": "Terpineol",
+    "formula": "C₁₀H₁₈O",
+    "group": "Alcoholes",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "3200–3600 cm⁻¹; ancha"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1000–1260 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alcoholes-19",
+    "name": "Mentol",
+    "formula": "C₁₀H₂₀O",
+    "group": "Alcoholes",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "3200–3600 cm⁻¹; ancha"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1000–1260 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "alcoholes-20",
+    "name": "Álcool alílico",
+    "formula": "C₃H₆O",
+    "group": "Alcoholes",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "3200–3600 cm⁻¹; ancha"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1000–1260 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "cetonas-01",
+    "name": "Acetona",
+    "formula": "C₃H₆O",
+    "group": "Cetonas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "cetonas-02",
+    "name": "2-Butanona",
+    "formula": "C₄H₈O",
+    "group": "Cetonas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "cetonas-03",
+    "name": "2-Pentanona",
+    "formula": "C₅H₁₀O",
+    "group": "Cetonas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "cetonas-04",
+    "name": "3-Pentanona",
+    "formula": "C₅H₁₀O",
+    "group": "Cetonas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "cetonas-05",
+    "name": "2-Hexanona",
+    "formula": "C₆H₁₂O",
+    "group": "Cetonas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "cetonas-06",
+    "name": "3-Hexanona",
+    "formula": "C₆H₁₂O",
+    "group": "Cetonas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "cetonas-07",
+    "name": "2-Heptanona",
+    "formula": "C₇H₁₄O",
+    "group": "Cetonas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "cetonas-08",
+    "name": "2-Octanona",
+    "formula": "C₈H₁₆O",
+    "group": "Cetonas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "cetonas-09",
+    "name": "Ciclohexanona",
+    "formula": "C₆H₁₀O",
+    "group": "Cetonas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "cetonas-10",
+    "name": "Ciclopentanona",
+    "formula": "C₅H₈O",
+    "group": "Cetonas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "cetonas-11",
+    "name": "Acetofenona",
+    "formula": "C₈H₈O",
+    "group": "Cetonas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "cetonas-12",
+    "name": "Benzofenona",
+    "formula": "C₁₃H₁₀O",
+    "group": "Cetonas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "cetonas-13",
+    "name": "4-Metil-2-pentanona",
+    "formula": "C₆H₁₂O",
+    "group": "Cetonas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "cetonas-14",
+    "name": "3-Metil-2-butanona",
+    "formula": "C₅H₁₀O",
+    "group": "Cetonas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "cetonas-15",
+    "name": "Diacetilo",
+    "formula": "C₄H₆O₂",
+    "group": "Cetonas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "cetonas-16",
+    "name": "Carvona",
+    "formula": "C₁₀H₁₄O",
+    "group": "Cetonas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "cetonas-17",
+    "name": "Alcanfor",
+    "formula": "C₁₀H₁₆O",
+    "group": "Cetonas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "cetonas-18",
+    "name": "Jasmonona",
+    "formula": "C₁₁H₁₆O",
+    "group": "Cetonas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "cetonas-19",
+    "name": "6-Metil-5-hepten-2-ona",
+    "formula": "C₈H₁₄O",
+    "group": "Cetonas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "cetonas-20",
+    "name": "Isophorona",
+    "formula": "C₉H₁₄O",
+    "group": "Cetonas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–H",
+        "range": "2850–3000 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aldehidos-01",
+    "name": "Metanal (formaldehído)",
+    "formula": "CH₂O",
+    "group": "Aldehídos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1720–1740 cm⁻¹"
+      },
+      {
+        "assignment": "C–H aldehídico",
+        "range": "≈ 2720 y 2820 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aldehidos-02",
+    "name": "Etanal (acetaldehído)",
+    "formula": "C₂H₄O",
+    "group": "Aldehídos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1720–1740 cm⁻¹"
+      },
+      {
+        "assignment": "C–H aldehídico",
+        "range": "≈ 2720 y 2820 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aldehidos-03",
+    "name": "Propanal",
+    "formula": "C₃H₆O",
+    "group": "Aldehídos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1720–1740 cm⁻¹"
+      },
+      {
+        "assignment": "C–H aldehídico",
+        "range": "≈ 2720 y 2820 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aldehidos-04",
+    "name": "Butanal",
+    "formula": "C₄H₈O",
+    "group": "Aldehídos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1720–1740 cm⁻¹"
+      },
+      {
+        "assignment": "C–H aldehídico",
+        "range": "≈ 2720 y 2820 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aldehidos-05",
+    "name": "Pentanal",
+    "formula": "C₅H₁₀O",
+    "group": "Aldehídos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1720–1740 cm⁻¹"
+      },
+      {
+        "assignment": "C–H aldehídico",
+        "range": "≈ 2720 y 2820 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aldehidos-06",
+    "name": "Hexanal",
+    "formula": "C₆H₁₂O",
+    "group": "Aldehídos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1720–1740 cm⁻¹"
+      },
+      {
+        "assignment": "C–H aldehídico",
+        "range": "≈ 2720 y 2820 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aldehidos-07",
+    "name": "Heptanal",
+    "formula": "C₇H₁₄O",
+    "group": "Aldehídos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1720–1740 cm⁻¹"
+      },
+      {
+        "assignment": "C–H aldehídico",
+        "range": "≈ 2720 y 2820 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aldehidos-08",
+    "name": "Octanal",
+    "formula": "C₈H₁₆O",
+    "group": "Aldehídos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1720–1740 cm⁻¹"
+      },
+      {
+        "assignment": "C–H aldehídico",
+        "range": "≈ 2720 y 2820 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aldehidos-09",
+    "name": "Nonanal",
+    "formula": "C₉H₁₈O",
+    "group": "Aldehídos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1720–1740 cm⁻¹"
+      },
+      {
+        "assignment": "C–H aldehídico",
+        "range": "≈ 2720 y 2820 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aldehidos-10",
+    "name": "Decanal",
+    "formula": "C₁₀H₂₀O",
+    "group": "Aldehídos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1720–1740 cm⁻¹"
+      },
+      {
+        "assignment": "C–H aldehídico",
+        "range": "≈ 2720 y 2820 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aldehidos-11",
+    "name": "Benzaldehído",
+    "formula": "C₇H₆O",
+    "group": "Aldehídos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1720–1740 cm⁻¹"
+      },
+      {
+        "assignment": "C–H aldehídico",
+        "range": "≈ 2720 y 2820 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aldehidos-12",
+    "name": "Salicilaldehído",
+    "formula": "C₇H₆O₂",
+    "group": "Aldehídos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1720–1740 cm⁻¹"
+      },
+      {
+        "assignment": "C–H aldehídico",
+        "range": "≈ 2720 y 2820 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aldehidos-13",
+    "name": "4-Metoxibenzaldehído",
+    "formula": "C₈H₈O₂",
+    "group": "Aldehídos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1720–1740 cm⁻¹"
+      },
+      {
+        "assignment": "C–H aldehídico",
+        "range": "≈ 2720 y 2820 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aldehidos-14",
+    "name": "Cinamaldehído",
+    "formula": "C₉H₈O",
+    "group": "Aldehídos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1720–1740 cm⁻¹"
+      },
+      {
+        "assignment": "C–H aldehídico",
+        "range": "≈ 2720 y 2820 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aldehidos-15",
+    "name": "Furfural",
+    "formula": "C₅H₄O₂",
+    "group": "Aldehídos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1720–1740 cm⁻¹"
+      },
+      {
+        "assignment": "C–H aldehídico",
+        "range": "≈ 2720 y 2820 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aldehidos-16",
+    "name": "Glioxal",
+    "formula": "C₂H₂O₂",
+    "group": "Aldehídos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1720–1740 cm⁻¹"
+      },
+      {
+        "assignment": "C–H aldehídico",
+        "range": "≈ 2720 y 2820 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aldehidos-17",
+    "name": "Gliceraldehído",
+    "formula": "C₃H₆O₃",
+    "group": "Aldehídos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1720–1740 cm⁻¹"
+      },
+      {
+        "assignment": "C–H aldehídico",
+        "range": "≈ 2720 y 2820 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aldehidos-18",
+    "name": "Citral",
+    "formula": "C₁₀H₁₆O",
+    "group": "Aldehídos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1720–1740 cm⁻¹"
+      },
+      {
+        "assignment": "C–H aldehídico",
+        "range": "≈ 2720 y 2820 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aldehidos-19",
+    "name": "Vainillina",
+    "formula": "C₈H₈O₃",
+    "group": "Aldehídos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1720–1740 cm⁻¹"
+      },
+      {
+        "assignment": "C–H aldehídico",
+        "range": "≈ 2720 y 2820 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aldehidos-20",
+    "name": "Cloral",
+    "formula": "C₂HCl₃O",
+    "group": "Aldehídos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1720–1740 cm⁻¹"
+      },
+      {
+        "assignment": "C–H aldehídico",
+        "range": "≈ 2720 y 2820 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "acidos-carboxilicos-01",
+    "name": "Ácido fórmico",
+    "formula": "CH₂O₂",
+    "group": "Ácidos carboxílicos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "2500–3300 cm⁻¹; muy ancha"
+      },
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1725 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1210–1320 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "acidos-carboxilicos-02",
+    "name": "Ácido acético",
+    "formula": "C₂H₄O₂",
+    "group": "Ácidos carboxílicos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "2500–3300 cm⁻¹; muy ancha"
+      },
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1725 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1210–1320 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "acidos-carboxilicos-03",
+    "name": "Ácido propiónico",
+    "formula": "C₃H₆O₂",
+    "group": "Ácidos carboxílicos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "2500–3300 cm⁻¹; muy ancha"
+      },
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1725 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1210–1320 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "acidos-carboxilicos-04",
+    "name": "Ácido butírico",
+    "formula": "C₄H₈O₂",
+    "group": "Ácidos carboxílicos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "2500–3300 cm⁻¹; muy ancha"
+      },
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1725 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1210–1320 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "acidos-carboxilicos-05",
+    "name": "Ácido valérico",
+    "formula": "C₅H₁₀O₂",
+    "group": "Ácidos carboxílicos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "2500–3300 cm⁻¹; muy ancha"
+      },
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1725 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1210–1320 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "acidos-carboxilicos-06",
+    "name": "Ácido caproico",
+    "formula": "C₆H₁₂O₂",
+    "group": "Ácidos carboxílicos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "2500–3300 cm⁻¹; muy ancha"
+      },
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1725 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1210–1320 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "acidos-carboxilicos-07",
+    "name": "Ácido heptanoico",
+    "formula": "C₇H₁₄O₂",
+    "group": "Ácidos carboxílicos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "2500–3300 cm⁻¹; muy ancha"
+      },
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1725 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1210–1320 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "acidos-carboxilicos-08",
+    "name": "Ácido octanoico",
+    "formula": "C₈H₁₆O₂",
+    "group": "Ácidos carboxílicos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "2500–3300 cm⁻¹; muy ancha"
+      },
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1725 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1210–1320 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "acidos-carboxilicos-09",
+    "name": "Ácido benzoico",
+    "formula": "C₇H₆O₂",
+    "group": "Ácidos carboxílicos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "2500–3300 cm⁻¹; muy ancha"
+      },
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1725 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1210–1320 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "acidos-carboxilicos-10",
+    "name": "Ácido salicílico",
+    "formula": "C₇H₆O₃",
+    "group": "Ácidos carboxílicos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "2500–3300 cm⁻¹; muy ancha"
+      },
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1725 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1210–1320 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "acidos-carboxilicos-11",
+    "name": "Ácido oxálico",
+    "formula": "C₂H₂O₄",
+    "group": "Ácidos carboxílicos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "2500–3300 cm⁻¹; muy ancha"
+      },
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1725 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1210–1320 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "acidos-carboxilicos-12",
+    "name": "Ácido malónico",
+    "formula": "C₃H₄O₄",
+    "group": "Ácidos carboxílicos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "2500–3300 cm⁻¹; muy ancha"
+      },
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1725 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1210–1320 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "acidos-carboxilicos-13",
+    "name": "Ácido succínico",
+    "formula": "C₄H₆O₄",
+    "group": "Ácidos carboxílicos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "2500–3300 cm⁻¹; muy ancha"
+      },
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1725 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1210–1320 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "acidos-carboxilicos-14",
+    "name": "Ácido láctico",
+    "formula": "C₃H₆O₃",
+    "group": "Ácidos carboxílicos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "2500–3300 cm⁻¹; muy ancha"
+      },
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1725 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1210–1320 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "acidos-carboxilicos-15",
+    "name": "Ácido cítrico",
+    "formula": "C₆H₈O₇",
+    "group": "Ácidos carboxílicos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "2500–3300 cm⁻¹; muy ancha"
+      },
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1725 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1210–1320 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "acidos-carboxilicos-16",
+    "name": "Ácido oleico",
+    "formula": "C₁₈H₃₄O₂",
+    "group": "Ácidos carboxílicos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "2500–3300 cm⁻¹; muy ancha"
+      },
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1725 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1210–1320 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "acidos-carboxilicos-17",
+    "name": "Ácido esteárico",
+    "formula": "C₁₈H₃₆O₂",
+    "group": "Ácidos carboxílicos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "2500–3300 cm⁻¹; muy ancha"
+      },
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1725 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1210–1320 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "acidos-carboxilicos-18",
+    "name": "Ácido acrílico",
+    "formula": "C₃H₄O₂",
+    "group": "Ácidos carboxílicos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "2500–3300 cm⁻¹; muy ancha"
+      },
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1725 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1210–1320 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "acidos-carboxilicos-19",
+    "name": "Ácido fumárico",
+    "formula": "C₄H₄O₄",
+    "group": "Ácidos carboxílicos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "2500–3300 cm⁻¹; muy ancha"
+      },
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1725 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1210–1320 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "acidos-carboxilicos-20",
+    "name": "Ácido tartárico",
+    "formula": "C₄H₆O₆",
+    "group": "Ácidos carboxílicos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "O–H",
+        "range": "2500–3300 cm⁻¹; muy ancha"
+      },
+      {
+        "assignment": "C=O",
+        "range": "≈ 1680–1725 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "1210–1320 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "haluros-de-acido-01",
+    "name": "Cloruro de acetilo",
+    "formula": "C₂H₃ClO",
+    "group": "Haluros de ácido",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1780–1815 cm⁻¹"
+      },
+      {
+        "assignment": "C–Cl / C–Br",
+        "range": "zona de huella digital"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "haluros-de-acido-02",
+    "name": "Cloruro de propanoílo",
+    "formula": "C₃H₅ClO",
+    "group": "Haluros de ácido",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1780–1815 cm⁻¹"
+      },
+      {
+        "assignment": "C–Cl / C–Br",
+        "range": "zona de huella digital"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "haluros-de-acido-03",
+    "name": "Cloruro de butanoílo",
+    "formula": "C₄H₇ClO",
+    "group": "Haluros de ácido",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1780–1815 cm⁻¹"
+      },
+      {
+        "assignment": "C–Cl / C–Br",
+        "range": "zona de huella digital"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "haluros-de-acido-04",
+    "name": "Cloruro de pentanoílo",
+    "formula": "C₅H₉ClO",
+    "group": "Haluros de ácido",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1780–1815 cm⁻¹"
+      },
+      {
+        "assignment": "C–Cl / C–Br",
+        "range": "zona de huella digital"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "haluros-de-acido-05",
+    "name": "Cloruro de hexanoílo",
+    "formula": "C₆H₁₁ClO",
+    "group": "Haluros de ácido",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1780–1815 cm⁻¹"
+      },
+      {
+        "assignment": "C–Cl / C–Br",
+        "range": "zona de huella digital"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "haluros-de-acido-06",
+    "name": "Cloruro de heptanoílo",
+    "formula": "C₇H₁₃ClO",
+    "group": "Haluros de ácido",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1780–1815 cm⁻¹"
+      },
+      {
+        "assignment": "C–Cl / C–Br",
+        "range": "zona de huella digital"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "haluros-de-acido-07",
+    "name": "Cloruro de octanoílo",
+    "formula": "C₈H₁₅ClO",
+    "group": "Haluros de ácido",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1780–1815 cm⁻¹"
+      },
+      {
+        "assignment": "C–Cl / C–Br",
+        "range": "zona de huella digital"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "haluros-de-acido-08",
+    "name": "Cloruro de decanoílo",
+    "formula": "C₁₀H₁₉ClO",
+    "group": "Haluros de ácido",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1780–1815 cm⁻¹"
+      },
+      {
+        "assignment": "C–Cl / C–Br",
+        "range": "zona de huella digital"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "haluros-de-acido-09",
+    "name": "Cloruro de benzoílo",
+    "formula": "C₇H₅ClO",
+    "group": "Haluros de ácido",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1780–1815 cm⁻¹"
+      },
+      {
+        "assignment": "C–Cl / C–Br",
+        "range": "zona de huella digital"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "haluros-de-acido-10",
+    "name": "Cloruro de 4-metilbenzoílo",
+    "formula": "C₈H₇ClO",
+    "group": "Haluros de ácido",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1780–1815 cm⁻¹"
+      },
+      {
+        "assignment": "C–Cl / C–Br",
+        "range": "zona de huella digital"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "haluros-de-acido-11",
+    "name": "Cloruro de 4-metoxibenzoílo",
+    "formula": "C₈H₇ClO₂",
+    "group": "Haluros de ácido",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1780–1815 cm⁻¹"
+      },
+      {
+        "assignment": "C–Cl / C–Br",
+        "range": "zona de huella digital"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "haluros-de-acido-12",
+    "name": "Cloruro de acriloílo",
+    "formula": "C₃H₃ClO",
+    "group": "Haluros de ácido",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1780–1815 cm⁻¹"
+      },
+      {
+        "assignment": "C–Cl / C–Br",
+        "range": "zona de huella digital"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "haluros-de-acido-13",
+    "name": "Cloruro de metacriloílo",
+    "formula": "C₄H₅ClO",
+    "group": "Haluros de ácido",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1780–1815 cm⁻¹"
+      },
+      {
+        "assignment": "C–Cl / C–Br",
+        "range": "zona de huella digital"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "haluros-de-acido-14",
+    "name": "Cloruro de oxalilo",
+    "formula": "C₂Cl₂O₂",
+    "group": "Haluros de ácido",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1780–1815 cm⁻¹"
+      },
+      {
+        "assignment": "C–Cl / C–Br",
+        "range": "zona de huella digital"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "haluros-de-acido-15",
+    "name": "Cloruro de cloroacetilo",
+    "formula": "C₂H₂Cl₂O",
+    "group": "Haluros de ácido",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1780–1815 cm⁻¹"
+      },
+      {
+        "assignment": "C–Cl / C–Br",
+        "range": "zona de huella digital"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "haluros-de-acido-16",
+    "name": "Cloruro de fenilacetilo",
+    "formula": "C₈H₇ClO",
+    "group": "Haluros de ácido",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1780–1815 cm⁻¹"
+      },
+      {
+        "assignment": "C–Cl / C–Br",
+        "range": "zona de huella digital"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "haluros-de-acido-17",
+    "name": "Bromuro de acetilo",
+    "formula": "C₂H₃BrO",
+    "group": "Haluros de ácido",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1780–1815 cm⁻¹"
+      },
+      {
+        "assignment": "C–Cl / C–Br",
+        "range": "zona de huella digital"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "haluros-de-acido-18",
+    "name": "Bromuro de propanoílo",
+    "formula": "C₃H₅BrO",
+    "group": "Haluros de ácido",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1780–1815 cm⁻¹"
+      },
+      {
+        "assignment": "C–Cl / C–Br",
+        "range": "zona de huella digital"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "haluros-de-acido-19",
+    "name": "Cloruro de ciclohexanocarbonilo",
+    "formula": "C₇H₁₁ClO",
+    "group": "Haluros de ácido",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1780–1815 cm⁻¹"
+      },
+      {
+        "assignment": "C–Cl / C–Br",
+        "range": "zona de huella digital"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "haluros-de-acido-20",
+    "name": "Cloruro de 3-furoílo",
+    "formula": "C₅H₃ClO₂",
+    "group": "Haluros de ácido",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1780–1815 cm⁻¹"
+      },
+      {
+        "assignment": "C–Cl / C–Br",
+        "range": "zona de huella digital"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "anhidridos-01",
+    "name": "Anhídrido acético",
+    "formula": "C₄H₆O₃",
+    "group": "Anhídridos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "dos bandas ≈ 1760–1820 cm⁻¹"
+      },
+      {
+        "assignment": "C–O–C",
+        "range": "≈ 900–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "anhidridos-02",
+    "name": "Anhídrido propiónico",
+    "formula": "C₆H₁₀O₃",
+    "group": "Anhídridos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "dos bandas ≈ 1760–1820 cm⁻¹"
+      },
+      {
+        "assignment": "C–O–C",
+        "range": "≈ 900–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "anhidridos-03",
+    "name": "Anhídrido butírico",
+    "formula": "C₈H₁₄O₃",
+    "group": "Anhídridos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "dos bandas ≈ 1760–1820 cm⁻¹"
+      },
+      {
+        "assignment": "C–O–C",
+        "range": "≈ 900–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "anhidridos-04",
+    "name": "Anhídrido valérico",
+    "formula": "C₁₀H₁₈O₃",
+    "group": "Anhídridos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "dos bandas ≈ 1760–1820 cm⁻¹"
+      },
+      {
+        "assignment": "C–O–C",
+        "range": "≈ 900–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "anhidridos-05",
+    "name": "Anhídrido succínico",
+    "formula": "C₄H₄O₃",
+    "group": "Anhídridos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "dos bandas ≈ 1760–1820 cm⁻¹"
+      },
+      {
+        "assignment": "C–O–C",
+        "range": "≈ 900–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "anhidridos-06",
+    "name": "Anhídrido maleico",
+    "formula": "C₄H₂O₃",
+    "group": "Anhídridos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "dos bandas ≈ 1760–1820 cm⁻¹"
+      },
+      {
+        "assignment": "C–O–C",
+        "range": "≈ 900–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "anhidridos-07",
+    "name": "Anhídrido ftálico",
+    "formula": "C₈H₄O₃",
+    "group": "Anhídridos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "dos bandas ≈ 1760–1820 cm⁻¹"
+      },
+      {
+        "assignment": "C–O–C",
+        "range": "≈ 900–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "anhidridos-08",
+    "name": "Anhídrido benzoico",
+    "formula": "C₁₄H₁₀O₃",
+    "group": "Anhídridos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "dos bandas ≈ 1760–1820 cm⁻¹"
+      },
+      {
+        "assignment": "C–O–C",
+        "range": "≈ 900–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "anhidridos-09",
+    "name": "Anhídrido trimelítico",
+    "formula": "C₉H₄O₅",
+    "group": "Anhídridos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "dos bandas ≈ 1760–1820 cm⁻¹"
+      },
+      {
+        "assignment": "C–O–C",
+        "range": "≈ 900–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "anhidridos-10",
+    "name": "Anhídrido glutárico",
+    "formula": "C₅H₆O₃",
+    "group": "Anhídridos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "dos bandas ≈ 1760–1820 cm⁻¹"
+      },
+      {
+        "assignment": "C–O–C",
+        "range": "≈ 900–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "anhidridos-11",
+    "name": "Anhídrido itacónico",
+    "formula": "C₅H₄O₃",
+    "group": "Anhídridos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "dos bandas ≈ 1760–1820 cm⁻¹"
+      },
+      {
+        "assignment": "C–O–C",
+        "range": "≈ 900–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "anhidridos-12",
+    "name": "Anhídrido citracónico",
+    "formula": "C₅H₄O₃",
+    "group": "Anhídridos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "dos bandas ≈ 1760–1820 cm⁻¹"
+      },
+      {
+        "assignment": "C–O–C",
+        "range": "≈ 900–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "anhidridos-13",
+    "name": "Anhídrido metacrílico",
+    "formula": "C₈H₁₀O₃",
+    "group": "Anhídridos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "dos bandas ≈ 1760–1820 cm⁻¹"
+      },
+      {
+        "assignment": "C–O–C",
+        "range": "≈ 900–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "anhidridos-14",
+    "name": "Anhídrido acrílico",
+    "formula": "C₆H₆O₃",
+    "group": "Anhídridos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "dos bandas ≈ 1760–1820 cm⁻¹"
+      },
+      {
+        "assignment": "C–O–C",
+        "range": "≈ 900–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "anhidridos-15",
+    "name": "Anhídrido trifluoroacético",
+    "formula": "C₄F₆O₃",
+    "group": "Anhídridos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "dos bandas ≈ 1760–1820 cm⁻¹"
+      },
+      {
+        "assignment": "C–O–C",
+        "range": "≈ 900–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "anhidridos-16",
+    "name": "Anhídrido cloroacético",
+    "formula": "C₄H₄Cl₂O₃",
+    "group": "Anhídridos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "dos bandas ≈ 1760–1820 cm⁻¹"
+      },
+      {
+        "assignment": "C–O–C",
+        "range": "≈ 900–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "anhidridos-17",
+    "name": "Anhídrido crotónico",
+    "formula": "C₈H₁₀O₃",
+    "group": "Anhídridos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "dos bandas ≈ 1760–1820 cm⁻¹"
+      },
+      {
+        "assignment": "C–O–C",
+        "range": "≈ 900–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "anhidridos-18",
+    "name": "Anhídrido 2-furoico",
+    "formula": "C₁₀H₆O₅",
+    "group": "Anhídridos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "dos bandas ≈ 1760–1820 cm⁻¹"
+      },
+      {
+        "assignment": "C–O–C",
+        "range": "≈ 900–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "anhidridos-19",
+    "name": "Anhídrido 1,8-naftálico",
+    "formula": "C₁₂H₆O₃",
+    "group": "Anhídridos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "dos bandas ≈ 1760–1820 cm⁻¹"
+      },
+      {
+        "assignment": "C–O–C",
+        "range": "≈ 900–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "anhidridos-20",
+    "name": "Anhídrido diglicólico",
+    "formula": "C₄H₄O₄",
+    "group": "Anhídridos",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "dos bandas ≈ 1760–1820 cm⁻¹"
+      },
+      {
+        "assignment": "C–O–C",
+        "range": "≈ 900–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aminas-01",
+    "name": "Metilamina",
+    "formula": "CH₅N",
+    "group": "Aminas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "N–H primaria",
+        "range": "≈ 3300–3500 cm⁻¹; dos bandas"
+      },
+      {
+        "assignment": "N–H secundaria",
+        "range": "≈ 3300–3500 cm⁻¹; una banda"
+      },
+      {
+        "assignment": "C–N",
+        "range": "≈ 1020–1350 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aminas-02",
+    "name": "Etilamina",
+    "formula": "C₂H₇N",
+    "group": "Aminas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "N–H primaria",
+        "range": "≈ 3300–3500 cm⁻¹; dos bandas"
+      },
+      {
+        "assignment": "N–H secundaria",
+        "range": "≈ 3300–3500 cm⁻¹; una banda"
+      },
+      {
+        "assignment": "C–N",
+        "range": "≈ 1020–1350 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aminas-03",
+    "name": "Propilamina",
+    "formula": "C₃H₉N",
+    "group": "Aminas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "N–H primaria",
+        "range": "≈ 3300–3500 cm⁻¹; dos bandas"
+      },
+      {
+        "assignment": "N–H secundaria",
+        "range": "≈ 3300–3500 cm⁻¹; una banda"
+      },
+      {
+        "assignment": "C–N",
+        "range": "≈ 1020–1350 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aminas-04",
+    "name": "Isopropilamina",
+    "formula": "C₃H₉N",
+    "group": "Aminas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "N–H primaria",
+        "range": "≈ 3300–3500 cm⁻¹; dos bandas"
+      },
+      {
+        "assignment": "N–H secundaria",
+        "range": "≈ 3300–3500 cm⁻¹; una banda"
+      },
+      {
+        "assignment": "C–N",
+        "range": "≈ 1020–1350 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aminas-05",
+    "name": "Butilamina",
+    "formula": "C₄H₁₁N",
+    "group": "Aminas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "N–H primaria",
+        "range": "≈ 3300–3500 cm⁻¹; dos bandas"
+      },
+      {
+        "assignment": "N–H secundaria",
+        "range": "≈ 3300–3500 cm⁻¹; una banda"
+      },
+      {
+        "assignment": "C–N",
+        "range": "≈ 1020–1350 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aminas-06",
+    "name": "sec-Butilamina",
+    "formula": "C₄H₁₁N",
+    "group": "Aminas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "N–H primaria",
+        "range": "≈ 3300–3500 cm⁻¹; dos bandas"
+      },
+      {
+        "assignment": "N–H secundaria",
+        "range": "≈ 3300–3500 cm⁻¹; una banda"
+      },
+      {
+        "assignment": "C–N",
+        "range": "≈ 1020–1350 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aminas-07",
+    "name": "tert-Butilamina",
+    "formula": "C₄H₁₁N",
+    "group": "Aminas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "N–H primaria",
+        "range": "≈ 3300–3500 cm⁻¹; dos bandas"
+      },
+      {
+        "assignment": "N–H secundaria",
+        "range": "≈ 3300–3500 cm⁻¹; una banda"
+      },
+      {
+        "assignment": "C–N",
+        "range": "≈ 1020–1350 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aminas-08",
+    "name": "Pentilamina",
+    "formula": "C₅H₁₃N",
+    "group": "Aminas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "N–H primaria",
+        "range": "≈ 3300–3500 cm⁻¹; dos bandas"
+      },
+      {
+        "assignment": "N–H secundaria",
+        "range": "≈ 3300–3500 cm⁻¹; una banda"
+      },
+      {
+        "assignment": "C–N",
+        "range": "≈ 1020–1350 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aminas-09",
+    "name": "Hexilamina",
+    "formula": "C₆H₁₅N",
+    "group": "Aminas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "N–H primaria",
+        "range": "≈ 3300–3500 cm⁻¹; dos bandas"
+      },
+      {
+        "assignment": "N–H secundaria",
+        "range": "≈ 3300–3500 cm⁻¹; una banda"
+      },
+      {
+        "assignment": "C–N",
+        "range": "≈ 1020–1350 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aminas-10",
+    "name": "Ciclohexilamina",
+    "formula": "C₆H₁₃N",
+    "group": "Aminas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "N–H primaria",
+        "range": "≈ 3300–3500 cm⁻¹; dos bandas"
+      },
+      {
+        "assignment": "N–H secundaria",
+        "range": "≈ 3300–3500 cm⁻¹; una banda"
+      },
+      {
+        "assignment": "C–N",
+        "range": "≈ 1020–1350 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aminas-11",
+    "name": "Anilina",
+    "formula": "C₆H₇N",
+    "group": "Aminas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "N–H primaria",
+        "range": "≈ 3300–3500 cm⁻¹; dos bandas"
+      },
+      {
+        "assignment": "N–H secundaria",
+        "range": "≈ 3300–3500 cm⁻¹; una banda"
+      },
+      {
+        "assignment": "C–N",
+        "range": "≈ 1020–1350 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aminas-12",
+    "name": "N-Metilanilina",
+    "formula": "C₇H₉N",
+    "group": "Aminas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "N–H primaria",
+        "range": "≈ 3300–3500 cm⁻¹; dos bandas"
+      },
+      {
+        "assignment": "N–H secundaria",
+        "range": "≈ 3300–3500 cm⁻¹; una banda"
+      },
+      {
+        "assignment": "C–N",
+        "range": "≈ 1020–1350 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aminas-13",
+    "name": "N,N-Dimetilanilina",
+    "formula": "C₈H₁₁N",
+    "group": "Aminas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "N–H primaria",
+        "range": "≈ 3300–3500 cm⁻¹; dos bandas"
+      },
+      {
+        "assignment": "N–H secundaria",
+        "range": "≈ 3300–3500 cm⁻¹; una banda"
+      },
+      {
+        "assignment": "C–N",
+        "range": "≈ 1020–1350 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aminas-14",
+    "name": "Bencilamina",
+    "formula": "C₇H₉N",
+    "group": "Aminas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "N–H primaria",
+        "range": "≈ 3300–3500 cm⁻¹; dos bandas"
+      },
+      {
+        "assignment": "N–H secundaria",
+        "range": "≈ 3300–3500 cm⁻¹; una banda"
+      },
+      {
+        "assignment": "C–N",
+        "range": "≈ 1020–1350 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aminas-15",
+    "name": "Etanolamina",
+    "formula": "C₂H₇NO",
+    "group": "Aminas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "N–H primaria",
+        "range": "≈ 3300–3500 cm⁻¹; dos bandas"
+      },
+      {
+        "assignment": "N–H secundaria",
+        "range": "≈ 3300–3500 cm⁻¹; una banda"
+      },
+      {
+        "assignment": "C–N",
+        "range": "≈ 1020–1350 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aminas-16",
+    "name": "Dietilamina",
+    "formula": "C₄H₁₁N",
+    "group": "Aminas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "N–H primaria",
+        "range": "≈ 3300–3500 cm⁻¹; dos bandas"
+      },
+      {
+        "assignment": "N–H secundaria",
+        "range": "≈ 3300–3500 cm⁻¹; una banda"
+      },
+      {
+        "assignment": "C–N",
+        "range": "≈ 1020–1350 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aminas-17",
+    "name": "Trietilamina",
+    "formula": "C₆H₁₅N",
+    "group": "Aminas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "N–H primaria",
+        "range": "≈ 3300–3500 cm⁻¹; dos bandas"
+      },
+      {
+        "assignment": "N–H secundaria",
+        "range": "≈ 3300–3500 cm⁻¹; una banda"
+      },
+      {
+        "assignment": "C–N",
+        "range": "≈ 1020–1350 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aminas-18",
+    "name": "Piperidina",
+    "formula": "C₅H₁₁N",
+    "group": "Aminas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "N–H primaria",
+        "range": "≈ 3300–3500 cm⁻¹; dos bandas"
+      },
+      {
+        "assignment": "N–H secundaria",
+        "range": "≈ 3300–3500 cm⁻¹; una banda"
+      },
+      {
+        "assignment": "C–N",
+        "range": "≈ 1020–1350 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aminas-19",
+    "name": "Pirrolidina",
+    "formula": "C₄H₉N",
+    "group": "Aminas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "N–H primaria",
+        "range": "≈ 3300–3500 cm⁻¹; dos bandas"
+      },
+      {
+        "assignment": "N–H secundaria",
+        "range": "≈ 3300–3500 cm⁻¹; una banda"
+      },
+      {
+        "assignment": "C–N",
+        "range": "≈ 1020–1350 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "aminas-20",
+    "name": "Morfolina",
+    "formula": "C₄H₉NO",
+    "group": "Aminas",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "N–H primaria",
+        "range": "≈ 3300–3500 cm⁻¹; dos bandas"
+      },
+      {
+        "assignment": "N–H secundaria",
+        "range": "≈ 3300–3500 cm⁻¹; una banda"
+      },
+      {
+        "assignment": "C–N",
+        "range": "≈ 1020–1350 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "esteres-01",
+    "name": "Acetato de metilo",
+    "formula": "C₃H₆O₂",
+    "group": "Ésteres",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1735–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "≈ 1050–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "esteres-02",
+    "name": "Acetato de etilo",
+    "formula": "C₄H₈O₂",
+    "group": "Ésteres",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1735–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "≈ 1050–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "esteres-03",
+    "name": "Acetato de propilo",
+    "formula": "C₅H₁₀O₂",
+    "group": "Ésteres",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1735–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "≈ 1050–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "esteres-04",
+    "name": "Acetato de butilo",
+    "formula": "C₆H₁₂O₂",
+    "group": "Ésteres",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1735–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "≈ 1050–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "esteres-05",
+    "name": "Acetato de isoamilo",
+    "formula": "C₇H₁₄O₂",
+    "group": "Ésteres",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1735–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "≈ 1050–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "esteres-06",
+    "name": "Formiato de etilo",
+    "formula": "C₃H₆O₂",
+    "group": "Ésteres",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1735–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "≈ 1050–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "esteres-07",
+    "name": "Propionato de metilo",
+    "formula": "C₄H₈O₂",
+    "group": "Ésteres",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1735–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "≈ 1050–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "esteres-08",
+    "name": "Propionato de etilo",
+    "formula": "C₅H₁₀O₂",
+    "group": "Ésteres",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1735–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "≈ 1050–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "esteres-09",
+    "name": "Butirato de metilo",
+    "formula": "C₅H₁₀O₂",
+    "group": "Ésteres",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1735–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "≈ 1050–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "esteres-10",
+    "name": "Butirato de etilo",
+    "formula": "C₆H₁₂O₂",
+    "group": "Ésteres",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1735–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "≈ 1050–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "esteres-11",
+    "name": "Benzoato de metilo",
+    "formula": "C₈H₈O₂",
+    "group": "Ésteres",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1735–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "≈ 1050–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "esteres-12",
+    "name": "Benzoato de etilo",
+    "formula": "C₉H₁₀O₂",
+    "group": "Ésteres",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1735–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "≈ 1050–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "esteres-13",
+    "name": "Salicilato de metilo",
+    "formula": "C₈H₈O₃",
+    "group": "Ésteres",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1735–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "≈ 1050–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "esteres-14",
+    "name": "Lactato de etilo",
+    "formula": "C₅H₁₀O₃",
+    "group": "Ésteres",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1735–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "≈ 1050–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "esteres-15",
+    "name": "Acetato de bencilo",
+    "formula": "C₉H₁₀O₂",
+    "group": "Ésteres",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1735–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "≈ 1050–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "esteres-16",
+    "name": "Acetato de vinilo",
+    "formula": "C₄H₆O₂",
+    "group": "Ésteres",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1735–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "≈ 1050–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "esteres-17",
+    "name": "Metacrilato de metilo",
+    "formula": "C₅H₈O₂",
+    "group": "Ésteres",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1735–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "≈ 1050–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "esteres-18",
+    "name": "Acrilato de etilo",
+    "formula": "C₅H₈O₂",
+    "group": "Ésteres",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1735–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "≈ 1050–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "esteres-19",
+    "name": "Palmitato de etilo",
+    "formula": "C₁₈H₃₆O₂",
+    "group": "Ésteres",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1735–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "≈ 1050–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  },
+  {
+    "id": "esteres-20",
+    "name": "Acetilsalicilato (aspirina)",
+    "formula": "C₉H₈O₄",
+    "group": "Ésteres",
+    "cas": "",
+    "state": "Consultar fuente",
+    "bands": [
+      {
+        "assignment": "C=O",
+        "range": "≈ 1735–1750 cm⁻¹"
+      },
+      {
+        "assignment": "C–O",
+        "range": "≈ 1050–1300 cm⁻¹"
+      }
+    ],
+    "source_url": "https://webbook.nist.gov/chemistry/",
+    "note": "Bandas orientativas del grupo funcional; verificar valores en el espectro experimental del compuesto."
+  }
+]
