@@ -91,3 +91,12 @@
 @media(max-width:900px){.topbar nav{gap:10px}.topbar nav a{font-size:11px}.theme-label{display:none}.image-match-grid{grid-template-columns:repeat(3,minmax(0,1fr))}}
 @media(max-width:760px){.image-search-panel{grid-template-columns:1fr}.image-search-disclaimer,.image-search-results{grid-column:auto}.image-match-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.topbar nav{gap:8px;flex-wrap:wrap;justify-content:flex-end}.theme-toggle{padding:6px 8px}}
 @media(max-width:520px){.topbar nav a[href="#busqueda-imagen"]{display:none}.image-search-panel{padding:17px}.image-match-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+
+/* Robustez de la carga de imagen y controles */
+.image-load-error{padding:24px;border:1px solid var(--line);border-radius:10px;background:var(--pale);color:var(--muted);font-size:13px;line-height:1.6}
+.image-search-controls .file-picker{appearance:none;-webkit-appearance:none}
+#spectrumUpload{position:absolute!important;width:1px!important;height:1px!important;padding:0!important;margin:-1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap!important;border:0!important}
+#spectrumUpload:focus-visible~.image-search-status{outline:2px solid var(--accent);outline-offset:3px}
+:root[data-theme="dark"] .guide-grid article,:root[data-theme="dark"] footer{background:#17232b;border-color:var(--line);color:var(--ink)}
+:root[data-theme="dark"] .modal-note{background:#1b2a33;color:var(--muted);border-color:var(--line)}
+:root[data-theme="dark"] .close-modal{background:#263d48;color:#e8eff2}

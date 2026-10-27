@@ -1,4 +1,4 @@
-const CACHE_NAME = "atlas-ir-v5";
+const CACHE_NAME = "atlas-ir-v6";
 const CORE_ASSETS = [
   "./",
   "./index.html",
@@ -223,7 +223,7 @@ self.addEventListener("install", event => {
 self.addEventListener("activate", event => {
   event.waitUntil(
     caches.keys()
-      .then(keys => Promise.all(keys.filter(key => key.startsWith("espectroteca-ir-") && key !== CACHE_NAME).map(key => caches.delete(key))))
+      .then(keys => Promise.all(keys.filter(key => (key.startsWith("espectroteca-ir-") || key.startsWith("atlas-ir-")) && key !== CACHE_NAME).map(key => caches.delete(key))))
       .then(() => self.clients.claim())
   );
 });
@@ -254,6 +254,20 @@ self.addEventListener("fetch", event => {
           return response;
         })
         .catch(async () => (await caches.match(request)) || (await caches.match("./index.html")) || (await caches.match("./offline.html")))
+    );
+    return;
+  }
+
+  const isAppAsset = /\/(app\.js|styles\.css|compuestos\.json|manifest\.json|service-worker\.js)$/.test(url.pathname);
+  if (isAppAsset) {
+    event.respondWith(
+      fetch(request, { cache: "no-cache" }).then(response => {
+        if (response && response.ok && response.type === "basic") {
+          const copy = response.clone();
+          caches.open(CACHE_NAME).then(cache => cache.put(request, copy));
+        }
+        return response;
+      }).catch(async () => (await caches.match(request)) || Response.error())
     );
     return;
   }

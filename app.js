@@ -63,14 +63,14 @@ function render(){
 }
 function escapeHTML(v){return String(v).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));}
 function openCompound(c){
-  const bands=c.bands.map(b=>`<tr><td>${escapeHTML(b.assignment)}</td><td>${escapeHTML(b.range)}</td></tr>`).join("");
+  const bands=(c.bands || []).map(b=>`<tr><td>${escapeHTML(b.assignment)}</td><td>${escapeHTML(b.range)}</td></tr>`).join("");
   const nist=`https://webbook.nist.gov/cgi/cbook.cgi?Name=${encodeURIComponent(c.name)}&Units=SI`;
   const sdbs=`https://sdbs.db.aist.go.jp/`;
   const provenance = c.provenance || "Fuente por asignar";
   const provenanceUrl = c.provenance_url || "https://webbook.nist.gov/chemistry/";
   const note = c.note ? escapeHTML(c.note) : "Verificar los datos en la fuente original.";
   $("#modalContent").innerHTML=`<span class="modal-kicker">${escapeHTML(c.group.toUpperCase())} · FICHA DE COMPUESTO</span><h2 id="modalTitle">${escapeHTML(c.name)}</h2><div class="modal-formula">${escapeHTML(c.formula)}</div>
-  ${c.image ? `<figure class="spectrum-figure"><img class="spectrum-image" src="${escapeHTML(c.image)}" alt="Espectro infrarrojo de ${escapeHTML(c.name)}" loading="lazy"><figcaption>Imagen de espectro incluida en los archivos recibidos. La procedencia y las condiciones de medición deben verificarse.</figcaption></figure>` : `<div class="spectrum-unavailable"><div class="spectrum-unavailable-mark">IR</div><div><h3>Espectro no disponible</h3><p>No se ha asociado una imagen a este compuesto.</p></div></div>`}
+  ${c.image ? `<figure class="spectrum-figure"><img class="spectrum-image" src="${escapeHTML(new URL(c.image, document.baseURI).href)}" alt="Espectro infrarrojo de ${escapeHTML(c.name)}" loading="eager" onerror="this.closest('figure').innerHTML='<p class=\'image-load-error\'>No se pudo cargar la imagen. Comprueba que la carpeta spectra esté subida completa a GitHub.</p>'"><figcaption>Imagen de espectro incluida en los archivos recibidos. La procedencia y las condiciones de medición deben verificarse.</figcaption></figure>` : `<div class="spectrum-unavailable"><div class="spectrum-unavailable-mark">IR</div><div><h3>Espectro no disponible</h3><p>No se ha asociado una imagen a este compuesto.</p></div></div>`}
   <div class="metadata-grid">
     <div><span>Fórmula molecular</span><b class="formula">${escapeHTML(c.formula)}</b></div>
     <div><span>Grupo funcional</span><b>${escapeHTML(c.group)}</b></div>
@@ -127,7 +127,7 @@ function loadImage(src){
     const img = new Image();
     img.onload = ()=>resolve(img);
     img.onerror = ()=>reject(new Error("No se pudo leer una imagen."));
-    img.src = src;
+    img.src = new URL(src, document.baseURI).href;
   });
 }
 async function visualFingerprint(source){
@@ -164,7 +164,7 @@ function showImageMatches(matches){
   const list=document.createElement("div"); list.className="image-match-grid";
   matches.forEach(({compound,score})=>{
     const item=document.createElement("button"); item.type="button"; item.className="image-match";
-    item.innerHTML=`<img src="${escapeHTML(compound.image)}" alt="" loading="lazy"><span class="image-match-name">${escapeHTML(compound.name)}</span><span class="image-match-meta">${escapeHTML(compound.formula)} · ${escapeHTML(compound.group)}</span><span class="image-match-score">Similitud visual: ${score}%</span>`;
+    item.innerHTML=`<img src="${escapeHTML(new URL(compound.image, document.baseURI).href)}" alt="" loading="lazy"><span class="image-match-name">${escapeHTML(compound.name)}</span><span class="image-match-meta">${escapeHTML(compound.formula)} · ${escapeHTML(compound.group)}</span><span class="image-match-score">Similitud visual: ${score}%</span>`;
     item.addEventListener("click",()=>openCompound(compound));
     list.appendChild(item);
   });
@@ -188,6 +188,7 @@ if(spectrumUpload){
       const uploaded=await loadImage(objectUrl);
       const queryFingerprint=await visualFingerprint(uploaded);
       const available=compounds.filter(c=>c.image);
+      if(!available.length) throw new Error("No hay rutas de espectros en la base de datos.");
       const scored=await Promise.all(available.map(async compound=>{
         try{
           if(!compound._visualFingerprint) compound._visualFingerprint=await visualFingerprint(compound.image);

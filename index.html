@@ -9,7 +9,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Atlas IR">
 <title>Atlas IR | Espectroscopía infrarroja</title>
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="styles.css?v=6">
 </head>
 <body>
 <header class="topbar">
@@ -42,12 +42,12 @@
 </main>
 <footer><div class="brand"><span class="brand-mark">IR</span><span>Atlas <b>IR</b><small>HERRAMIENTA ACADÉMICA</small></span></div><p>Las bandas orientativas no sustituyen un espectro experimental. Se priorizan fuentes verificables como SDBS/AIST y NIST; la disponibilidad y las condiciones experimentales deben comprobarse para cada compuesto.</p></footer>
 <div id="modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><div class="modal-backdrop" id="modalBackdrop"></div><div class="modal-panel"><button class="close-modal" id="closeModal" aria-label="Cerrar">×</button><div id="modalContent"></div></div></div>
-<script src="app.js"></script>
+<script src="app.js?v=6" defer></script>
 <script>
   if ("serviceWorker" in navigator) {
     window.addEventListener("load", () => {
-      navigator.serviceWorker.register("./service-worker.js")
-        .then(() => console.info("Espectroteca IR: servicio offline registrado."))
+      navigator.serviceWorker.register("./service-worker.js?v=6", { updateViaCache: "none" })
+        .then(registration => { registration.update(); console.info("Atlas IR: servicio offline actualizado."); })
         .catch(error => console.error("No se pudo registrar el modo offline:", error));
     });
   }
