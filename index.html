@@ -2,26 +2,26 @@
 <html lang="es">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#17324d">
-<meta name="description" content="Espectroteca IR: catálogo académico de compuestos y espectros infrarrojos.">
+<meta name="theme-color" content="#24566b">
+<meta name="description" content="Atlas de espectroscopía infrarroja: catálogo académico de compuestos orgánicos y espectros IR.">
 <link rel="manifest" href="./manifest.json">
 <link rel="apple-touch-icon" href="./icons/icon-192.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="Espectroteca IR">
-<title>Espectroteca IR | Infrarrojo medio</title>
+<meta name="apple-mobile-web-app-title" content="Atlas IR">
+<title>Atlas IR | Espectroscopía infrarroja</title>
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 <header class="topbar">
-  <a class="brand" href="#inicio"><span class="brand-mark">IR</span><span>Espectroteca <b>IR</b><small>INFRARROJO MEDIO · 4000–400 cm⁻¹</small></span></a>
-  <nav><a href="#inicio">Inicio</a><a href="#catalogo">Catálogo</a><a href="#guia">Guía IR</a><span id="connectionStatus" class="connection-status" role="status">Comprobando conexión…</span></nav>
+  <a class="brand" href="#inicio"><span class="brand-mark">IR</span><span>Atlas <b>IR</b><small>ESPECTROSCOPÍA INFRARROJA</small></span></a>
+  <nav><a href="#inicio">Inicio</a><a href="#catalogo">Catálogo</a><a href="#busqueda-imagen">Buscar por imagen</a><a href="#guia">Guía IR</a><button id="themeToggle" class="theme-toggle" type="button" aria-label="Activar modo oscuro" aria-pressed="false"><span class="theme-icon" aria-hidden="true">☾</span><span class="theme-label">Modo oscuro</span></button><span id="connectionStatus" class="connection-status" role="status">Comprobando conexión…</span></nav>
 </header>
 <main>
 <section class="hero" id="inicio">
   <div class="hero-copy"><span class="eyebrow">QUÍMICA · ANÁLISIS INSTRUMENTAL</span>
-  <h1>Explora la huella<br><em>molecular.</em></h1>
-  <p>Una biblioteca de consulta de compuestos orgánicos y sus bandas características en espectroscopia infrarroja de medio.</p>
-  <div class="hero-actions"><a class="btn primary" href="#catalogo">Explorar catálogo <span>↗</span></a><span class="hero-note">200 fichas · 10 grupos funcionales</span></div></div>
+  <h1>Atlas de espectroscopía<br><em>infrarroja.</em></h1>
+  <p>Una biblioteca académica de compuestos orgánicos y espectros infrarrojos para explorar bandas características, comparar señales y consultar fuentes de referencia.</p>
+  <div class="hero-actions"><a class="btn primary" href="#catalogo">Explorar catálogo <span>↗</span></a><span class="hero-note">200 compuestos · 10 grupos funcionales</span></div></div>
   <div class="spectrum-card source-card"><div class="spec-head"><span>DATOS ESPECTROSCÓPICOS</span><span class="live-dot">FUENTES DE REFERENCIA</span></div><div class="source-card-icon">IR</div><h3>Espectros experimentales verificables</h3><p>Consulta registros originales en bases de datos científicas. La ficha indicará claramente cuando un espectro experimental aún no se haya incorporado.</p><div class="source-links"><a href="https://sdbs.db.aist.go.jp/" target="_blank" rel="noopener noreferrer">SDBS · AIST ↗</a><a href="https://webbook.nist.gov/chemistry/" target="_blank" rel="noopener noreferrer">NIST WebBook ↗</a></div></div>
 </section>
 <section class="stats"><div><b id="totalCount">200</b><span>compuestos en catálogo</span></div><div><b>10</b><span>grupos funcionales</span></div><div><b>400–4000</b><span>cm⁻¹ · región IR medio</span></div></section>
@@ -29,12 +29,18 @@
   <div class="section-heading"><div><span class="eyebrow">BIBLIOTECA QUÍMICA</span><h2>Catálogo de espectros</h2><p>Busca un compuesto o selecciona un grupo funcional para filtrar los resultados.</p></div><span class="count-pill" id="resultCount">200 resultados</span></div>
   <div class="filters"><label class="searchbox"><span>⌕</span><input id="searchInput" type="search" placeholder="Buscar nombre, fórmula o grupo…" autocomplete="off"></label><label class="select-wrap"><span>Grupo funcional</span><select id="groupFilter"><option value="">Todos los grupos</option></select></label><label class="select-wrap"><span>Ordenar por</span><select id="sortFilter"><option value="name">Nombre A–Z</option><option value="group">Grupo funcional</option></select></label></div>
   <div id="groupChips" class="chips"></div>
+  <section id="busqueda-imagen" class="image-search-panel" aria-labelledby="imageSearchTitle">
+    <div class="image-search-copy"><span class="eyebrow">BÚSQUEDA VISUAL</span><h3 id="imageSearchTitle">¿Este espectro está en la biblioteca?</h3><p>Sube una imagen del espectro IR para compararla visualmente con las imágenes del catálogo y encontrar posibles coincidencias.</p></div>
+    <div class="image-search-controls"><label class="file-picker" for="spectrumUpload">Seleccionar imagen del espectro</label><input id="spectrumUpload" type="file" accept="image/*"><span id="imageSearchStatus" class="image-search-status" role="status">Formatos habituales: PNG o JPEG.</span></div>
+    <div id="imageSearchResults" class="image-search-results hidden" aria-live="polite"></div>
+    <p class="image-search-disclaimer">La puntuación indica similitud visual aproximada, no la probabilidad de identidad química. El recorte, la resolución, el fondo y la orientación pueden afectar los resultados; confirma siempre la identidad con datos químicos y fuentes fiables.</p>
+  </section>
   <div id="compoundGrid" class="compound-grid"><div class="loading">Cargando catálogo…</div></div>
   <div id="emptyState" class="empty hidden"><b>No encontramos resultados</b><p>Prueba con otro nombre o cambia el grupo funcional.</p><button id="clearFilters" class="btn secondary">Limpiar filtros</button></div>
 </section>
 <section id="guia" class="guide"><div><span class="eyebrow">LECTURA RÁPIDA</span><h2>¿Cómo interpretar un IR?</h2><p>Las bandas ayudan a identificar enlaces y grupos funcionales. La posición exacta depende de la estructura, el estado físico, el solvente y las condiciones de medición.</p></div><div class="guide-grid"><article><b>4000–2500 cm⁻¹</b><p>Estiramientos X–H: O–H, N–H y C–H.</p></article><article><b>2500–2000 cm⁻¹</b><p>Región frecuente para enlaces triples C≡C y C≡N.</p></article><article><b>2000–1500 cm⁻¹</b><p>Enlaces dobles; destaca la señal del carbonilo C=O.</p></article><article><b>1500–400 cm⁻¹</b><p>Región de huella digital, útil para comparar compuestos.</p></article></div></section>
 </main>
-<footer><div class="brand"><span class="brand-mark">IR</span><span>Espectroteca <b>IR</b><small>HERRAMIENTA ACADÉMICA</small></span></div><p>Las bandas orientativas no sustituyen un espectro experimental. Se priorizan fuentes verificables como SDBS/AIST y NIST; la disponibilidad y las condiciones experimentales deben comprobarse para cada compuesto.</p></footer>
+<footer><div class="brand"><span class="brand-mark">IR</span><span>Atlas <b>IR</b><small>HERRAMIENTA ACADÉMICA</small></span></div><p>Las bandas orientativas no sustituyen un espectro experimental. Se priorizan fuentes verificables como SDBS/AIST y NIST; la disponibilidad y las condiciones experimentales deben comprobarse para cada compuesto.</p></footer>
 <div id="modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><div class="modal-backdrop" id="modalBackdrop"></div><div class="modal-panel"><button class="close-modal" id="closeModal" aria-label="Cerrar">×</button><div id="modalContent"></div></div></div>
 <script src="app.js"></script>
 <script>

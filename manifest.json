@@ -1,14 +1,14 @@
 {
   "id": "./",
-  "name": "Espectroteca IR",
-  "short_name": "Espectroteca IR",
-  "description": "Biblioteca académica de compuestos y espectros infrarrojos.",
+  "name": "Atlas de Espectroscopía Infrarroja",
+  "short_name": "Atlas IR",
+  "description": "Biblioteca académica de compuestos orgánicos y espectros infrarrojos.",
   "lang": "es",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f4f6f8",
-  "theme_color": "#17324d",
+  "background_color": "#f7f9fa",
+  "theme_color": "#24566b",
   "icons": [
     {
       "src": "./icons/icon-192.png",
